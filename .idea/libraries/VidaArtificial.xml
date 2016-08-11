@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VidaArtificial">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/VidaArtificial.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
